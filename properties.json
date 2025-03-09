@@ -1,0 +1,193 @@
+[
+    {
+        "squareFootage": 1850,
+        "lighting": "natural",
+        "price": 250000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [40.7128, -74.0060],
+        "description": "Spacious apartment with city view",
+        "ammenities": {"pool": true, "gym": false, "parking": true}
+      },
+      {
+        "squareFootage": 2200,
+        "lighting": "artificial",
+        "price": 350000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": [34.0522, -118.2437],
+        "description": "Modern home in downtown LA",
+        "ammenities": {"pool": true, "gym": true, "parking": true}
+      },
+      {
+        "squareFootage": 1500,
+        "lighting": "natural",
+        "price": 180000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": [41.8781, -87.6298],
+        "description": "Cozy condo in Chicago",
+        "ammenities": {"pool": false, "gym": true, "parking": false}
+      },
+      {
+        "squareFootage": 3000,
+        "lighting": "natural",
+        "price": 500000,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": [29.7604, -95.3698],
+        "description": "Luxury villa in Houston",
+        "ammenities": {"pool": true, "gym": true, "parking": true}
+      },
+      {
+        "squareFootage": 1800,
+        "lighting": "artificial",
+        "price": 275000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [33.4484, -112.0740],
+        "description": "Beautiful home in Phoenix",
+        "ammenities": {"pool": true, "gym": false, "parking": true}
+      },
+      {
+        "squareFootage": 2100,
+        "lighting": "natural",
+        "price": 320000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": [39.7392, -104.9903],
+        "description": "Modern apartment in Denver",
+        "ammenities": {"pool": false, "gym": true, "parking": true}
+      },
+      {
+        "squareFootage": 1700,
+        "lighting": "artificial",
+        "price": 230000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [32.7767, -96.7970],
+        "description": "Charming townhouse in Dallas",
+        "ammenities": {"pool": false, "gym": true, "parking": true}
+      },
+      {
+        "squareFootage": 2600,
+        "lighting": "natural",
+        "price": 400000,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": [37.7749, -122.4194],
+        "description": "Elegant residence in San Francisco",
+        "ammenities": {"pool": true, "gym": true, "parking": false}
+      },
+      {
+        "squareFootage": 1200,
+        "lighting": "bright",
+        "price": 300000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [34.0522, -118.2437],
+        "description": "Spacious home in LA",
+        "ammenities": {"garage": true, "pool": false}
+      },
+      {
+        "squareFootage": 2500,
+        "lighting": "medium",
+        "price": 600000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": [40.7128, -74.006],
+        "description": "Luxury apartment in NYC",
+        "ammenities": {"garage": false, "pool": true}
+      },
+      {
+        "squareFootage": 900,
+        "lighting": "low",
+        "price": 200000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": [37.7749, -122.4194],
+        "description": "Small home in SF",
+        "ammenities": {"garage": false, "pool": false}
+      },
+      {
+        "squareFootage": 1500,
+        "lighting": "bright",
+        "price": 400000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [41.8781, -87.6298],
+        "description": "Cozy house in Chicago",
+        "ammenities": {"garage": true, "pool": false}
+      },
+      {
+        "squareFootage": 3200,
+        "lighting": "bright",
+        "price": 750000,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": [29.7604, -95.3698],
+        "description": "Large family house in Houston",
+        "ammenities": {"garage": true, "pool": true}
+      },
+      {
+        "squareFootage": 1100,
+        "lighting": "medium",
+        "price": 280000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": [33.749, -84.388],
+        "description": "Affordable home in Atlanta",
+        "ammenities": {"garage": false, "pool": false}
+      },
+      {
+        "squareFootage": 1850,
+        "lighting": "natural",
+        "price": 250000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": [54.7128, -74.0060],
+        "description": "Spacious apartment with city view",
+        "ammenities": {"pool": true, "gym": false, "parking": true}
+      },
+      {
+        "squareFootage": 2200,
+        "lighting": "artificial",
+        "price": 350000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": [34.0522, -118.2437],
+        "description": "Modern home in downtown LA",
+        "ammenities": {"pool": true, "gym": true, "parking": true}
+      },
+      {
+        "squareFootage": 1400,
+        "lighting": "medium",
+        "price": 180000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": [41.8781, -87.6298],
+        "description": "Cozy apartment near the park",
+        "ammenities": {"pool": false, "gym": true, "parking": false}
+      },
+      {
+        "squareFootage": 3000,
+        "lighting": "high",
+        "price": 500000,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": [29.7604, -95.3698],
+        "description": "Luxury villa with private garden",
+        "ammenities": {"pool": true, "gym": true, "parking": true, "garden": true}
+      },
+      {
+        "squareFootage": 1200,
+        "lighting": "low",
+        "price": 150000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": [39.7392, -104.9903],
+        "description": "Affordable home in a quiet neighborhood",
+        "ammenities": {"pool": false, "gym": false, "parking": true}
+      }
+  ]
+  
